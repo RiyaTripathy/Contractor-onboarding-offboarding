@@ -1,0 +1,5 @@
+firstName,lastName,email,login,Title,AppName,operation
+User2,Contractor,User2.Contractor@test.com,User2.Contractor@test.com,,null,Delete
+Riya,Tripathy,riya.tripathy9127@gmail.com,riya.tripathy9127@gmail.com,,Salesforce.com,Assignapp
+User1,Contractor,User1.Contractor@test.com,User1.Contractor@test.com,Contractor,null,Update
+User3,Contractor,User3.Contractor@test.com,User3.Contractor@test.com,null,,Create
